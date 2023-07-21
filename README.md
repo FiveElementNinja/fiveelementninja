@@ -9,4 +9,4 @@ I'm a web developer who likes to dabble in many things, with a particular intere
 ### 🌱 I’m currently learning: Playdate game development
 ### ⚡ Fun fact: I once won a year of free video game rentals at my local Blockbuster Video by winning a Donkey Kong Country tournament
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7DO5M5)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fiveelementninja)
